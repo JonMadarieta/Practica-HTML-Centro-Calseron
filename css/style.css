@@ -1,0 +1,11 @@
+#divFooter{color: darkcyan; text-align: center; letter-spacing: -2px;}
+#imagen{width: 85px; float: left;}
+#h2Img{color: darkcyan; text-align: center; letter-spacing: -2px;}
+#resultado{
+    height: 150px; text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkgreen;
+}
+.salto{color: darkcyan;}
+#staticBackdropLabel{color: darkcyan; text-align: center;}
+#divFooter1{color: darkcyan; text-align: right; letter-spacing: -2px;}
